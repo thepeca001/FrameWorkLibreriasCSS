@@ -1,0 +1,46 @@
+header{
+	width: 100%;
+	padding: 20px;
+}
+
+body{
+	background-color:brown;
+}
+
+.container{
+	background-color: white;
+}
+.logo-img {
+  width: 600px;
+  height: 100px;
+  padding: 0: 
+}
+
+.redes-sociales {
+  margin-top: 10px;
+  float: right;
+}
+
+.img-social {
+  width: 40px;
+  height: 40px;
+}
+
+.navbar-inverse {
+  background-color: rgba(8, 45, 94, 0.95);
+  min-height: 10%;
+  border: none;
+}
+
+p img {
+	padding: 10px;
+}
+
+footer{
+	height: 30%;
+	background-color: #564567;
+	color:white;
+	position: relative;
+	margin-top: 20px;
+	padding: 10PX;
+}

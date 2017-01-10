@@ -1,0 +1,45 @@
+header{
+	background-color:#6F9;
+}
+
+div{
+	
+	padding: 2px;
+}
+
+body
+{
+	background-image: url(../img/fondo.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+.titulo{
+	font-family:"MS Serif", "New York", serif;
+	font-size:3.5em;
+	color:red;
+	padding: 5px;
+}
+
+.fecha{
+	color:red;
+	text-decoration: underline;
+	font-size: 18px;
+}
+
+.fondo-container{
+	background-color:#CF9;
+	opacity: .90; 
+}
+
+.fondo-ventana{
+	background-color:#6F6;
+}
+img{
+	border-radius: 10px;
+}
+
+p img{
+	width: 100%;
+	max-height: 350px;
+	position: relative;
+}
